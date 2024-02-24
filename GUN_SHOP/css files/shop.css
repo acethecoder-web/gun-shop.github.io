@@ -1,0 +1,172 @@
+@font-face {
+    font-family: bullet;
+    src: url(../Bulletproof-w1nxx.ttf);
+}
+
+* {
+    font-family: bullet;
+}
+
+#logo {
+
+    width: 60px;
+    position: absolute;
+    bottom: 2px;
+    left: 5px;
+}
+
+#webname {
+
+    color: black;
+    position: absolute;
+    left: 75px;
+    position: absolute;
+    bottom: 565px;
+
+}
+
+body {
+
+    background-color: #0f0e17;
+}
+
+
+#nav-mobile {
+
+    position: absolute;
+    left: 1100px;
+    bottom: 575px;
+}
+
+#l {
+    color: black;
+}
+
+#show {
+
+    color: black;
+    position: absolute;
+    left: 580px;
+    bottom: 65px;
+
+}
+
+.sidenav {
+    background-color: white;
+}
+
+#s {
+
+    color: orange;
+}
+
+
+
+#divider1 {
+    background-color: #0f0e17;
+    color: orange;
+}
+
+
+#desc {
+    background-color: #0f0e17;
+    color: white;
+}
+
+
+#divider2 {
+    background-color: whitesmoke;
+    color: orange;
+}
+
+#desc2 {
+    color: black;
+}
+
+#latdro {
+
+    color: white;
+
+
+}
+
+.pistols {
+
+    background-color: white;
+    width: 300px;
+}
+
+#pname{
+
+    color: orange;
+}
+
+#lh {
+    background-color: orange;
+    color: black;
+}
+
+#foot {
+    background-color: orange;
+}
+
+#fc {
+   color: #0f0e17;
+}
+
+#flogo{
+  width: 150px;
+}
+
+#lh2{
+
+    background-color: white;
+    color: black;
+}
+
+#fh {
+    top: 2285px;
+    left: 380px;
+    position: absolute;
+}
+
+#lh2{
+transition-duration: 0.5s;
+}
+
+#lh2:hover{
+color: orange;
+background-color: red;
+}
+
+.icons{
+width: 25px;
+transition-duration: 0.5s;
+}
+
+.icons:hover{
+scale: 2.0;
+}
+
+
+.in{
+    transition-duration: 0.5s;
+    opacity: 100%;
+    }
+    
+.in:hover{
+    opacity: 30%;
+    }
+
+
+#fh2 {
+    top: 2240px;
+    left: 250px;
+    position: absolute;
+}
+
+
+.parallax-container {
+    height: 80vh;
+  }
+      
